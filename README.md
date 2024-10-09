@@ -73,7 +73,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi1971" alt="mehedi1971" /></a> </p>
 <hr/>
 
-🚀 Featured Projects
+### 🚀 Featured Projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-E34A86?logo=java&logoColor=white&style=flat-square" />
