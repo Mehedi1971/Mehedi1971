@@ -108,7 +108,7 @@
 
 <hr/>
 <h3 align="left"> Visitor Count 🚀</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi1971&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi1971" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehedi1971&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi1971" /> </p>
 <hr/>
 
 <h3 align="left">Connect with me 🌍</h3>
