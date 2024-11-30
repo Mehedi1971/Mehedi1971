@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/-MySQL-6DB33F?logo=mysql&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-PostgreSQL-6DB33F?logo=postgresql&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-MongoDB-4DB33F?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-RabbitMQ-6DB33F?logo=rabbitmq&logoColor=white&style=flat-square" />
+<!--   <img src="https://img.shields.io/badge/-RabbitMQ-6DB33F?logo=rabbitmq&logoColor=white&style=flat-square" />   ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%E2%9C%85-brightgreen) -->
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
 </p>
 
@@ -103,7 +103,6 @@
   *An intelligent attendance tracking system integrated with biometric devices. Provides real-time employee tracking and reporting.*  
   ![Java](https://img.shields.io/badge/Java-%E2%9C%85-blue)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%E2%9C%85-brightgreen)
-  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%E2%9C%85-brightgreen)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%E2%9C%85-blue)
 
 <hr/>
